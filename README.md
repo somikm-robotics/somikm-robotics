@@ -70,5 +70,5 @@ in simulated industrial environments.
 ---
 
 📍 London, UK
-🔗 [LinkedIn](www.linkedin.com/in/somimurthyk)
+🔗 [LinkedIn] (www.linkedin.com/in/somimurthyk)
 📧 somi.murthyk@gmail.com
