@@ -36,7 +36,7 @@ systems, microservices, containerisation, and CI/CD practices.
 ## Education
 
 **MSc Robotics & Artificial Intelligence — Distinction**
-University College London (UCL)
+University College London (UCL)  
 Multi-agent autonomous systems for hazard detection and response 
 in simulated industrial environments.
 
